@@ -1,0 +1,20 @@
+{
+  "itemsMenu": [
+    {
+      "title": "Главная",
+      "link": "/content"
+    },
+    {
+      "title": "Блог",
+      "link": "/"
+    },
+    {
+      "title": "Контакты",
+      "link": "/contacts"
+    },
+    {
+      "title": "О нас",
+      "link": "/about"
+    }
+  ]
+}
